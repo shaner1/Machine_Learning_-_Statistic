@@ -4,10 +4,13 @@ This repository contains my submission for the Machine Learning and Statistics m
 
 ##Quick View
 
-You can easily view this repository by clicking this image
+You can easily view a static version of repository by clicking this image
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/shaner1/Machine_Learning_And_Statistic/tree/main/)
 
+You can easily view a dynamic version of repository by clicking this image
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shaner1/Machine_Learning_And_Statistic/HEAD?labpath=scikit-learn.ipynb)
 
 ## How to Run Jupyter Lab
 
