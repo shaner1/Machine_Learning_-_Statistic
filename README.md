@@ -42,37 +42,22 @@ You can easily view a dynamic version of repository by clicking this image
 
 ## Intall
 
+To run my project submission from your local device you will need a python environment like Jupyter Lab. Jupyter Lab is an interactive python web environment that runs on your local machine. Projects in Jupyter Lab are referred to as notebooks. The easiest way to do this is to install Anaconda, which is a helpful python distribution package. You can find out how to do this here: [Installation Guide](https://docs.anaconda.com/anaconda/install/index.html)
+
+Next, download the GitHub repository (repo) to your local device. To do so, simple open this link [github repo](https://github.com/shaner1/Machine_Learning_And_Statistic). Click the green code button and select download ZIP at the bottom, then unzip the folder on your device. In your command line interface (CLI) navigate to the folder using `cd` + filepath, for example:`cd Downloads/Machine_Learning_And_Statistic-main`. From your CLI you can open the notebook in your web browser with `jupyter notebook` + notebook name. For example, `jupyter notebook scikit-learn ipynb` to open the scikit notebook or `jupyter notebook scipy ipynb` to open the SciPy notebook.
+
+
+To enusre no error and run the project as I have, you will need to install all the same packages as on my device. I am working off a MAC. The requirements.txt file contains all the necessary package and their versions. The easiest way to install these files is, while you are in the repo folder in your CLI, enter: `pip install -r requirements.txt`.
+
+Alternatively, if you do not wish to install all these package and files to your local device you can run them in a virtual environment. While in the folder with the repo in your CLI, do the following:
+
+1. Type `python3 -m venv venv` to create a virtual environment.
+2. Then `source venv/bin/activate` for MAC or `.\venv\Script\activate.bat` for Windows to open the environment.
+3. Then `pip install -r requirements.txt` to install the necessary packages
+4. Then `jupyter notebook` + notebook name to run the notebooks
 
 
 ***
-## How to Run Jupyter Lab
-
-To run my project submission you will need a python environment and packages and dependancies are listed in my requirements.txt file. The key files are the ipynb files Scikit-Learn ipynb andSciPy ipynb, which are jupyter notebooks. Jupyter notebooks is an interactive python web environment that runs on your local machine. 
-
-the top of the notebook should explain what they are and wha to do with it
- 
- start them Jupiter lab.
-
-- nedd to list dependancies 
-
-To run these jupyter notebooks you will need to install Python, ideally through th Anaconda distribution. Then you will need to download this repository to your local device. To open the jupyter notebook from your device, please navigate to the folder containing the notebooks using the `cd` command + the file path in your your command line interface and then type `jupyter notebook` + notebook name. For example, on my device the notebooks, the ipynb files, are contained within a folder called Machine Learning & Statistics in my documents folder. To navigate to them I shall type into the command line the following: `cd/Documents/GMIT/Machine Learning & Statistics` and then `jupyter notebook scikit-learn ipynb` to open 
-
-
-
-
-1. Download[Anaconda]().
-2. Download[cmder]() if on Windows.
-3. 'jupyter lab'.
-
-***
-
-## Explore
-
-If you wish try some for other machine learning modules on the dataset you can simple do so by searching for model in the Scikit-learn documentation adding replacing the following code 
-
-```python
-import 
-```
 
 ## Conclusion
 
