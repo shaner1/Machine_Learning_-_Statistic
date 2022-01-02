@@ -1,7 +1,8 @@
-![GMIT_Logo.png](GMIT-logo.png)
+![GMIT_Logo.png](img/gmit-logo.png)
 # Machine_Learning_And_Statistic
 
 Author: Shane Rylands
+
 G00387904@gmit.ie
 ***
 
@@ -73,12 +74,6 @@ If you wish try some for other machine learning modules on the dataset you can s
 import 
 ```
 
-## Credits
-
-Thoughout this project, I have borrowed heavily from the Machine Learning and Statistic module course work belonging to Dr.Ian McLoughlin of GMIt. I also replied upon the Scikit-Learn and SciPy documentation. For help with markdown, I have referenced this blog https://www.markdownguide.org/basic-syntax/.
-
-***
-
 ## Conclusion
 
 In conclusion, I am happy with how my submission has turned out, but there are a few aspect I would like to improve upon. For the Scikit-learn notebook, I wanted to use neural networks, but wasnt able to find a suitable dataset for what I hoped to achieve. I invested a lot of time in trying to understand neural networks and seraching for appropriate datasets. This was not time wasted as I learnt a lot, but it is time spent that I could have use to better understand the theorical aspect of regression analysis. For the my SciPy notebook, I would also improve my explanation of the theory behind ANOVA and hypothesis testing in general. I would also have liked to include post hoc tests.
@@ -88,5 +83,11 @@ In conclusion, I am happy with how my submission has turned out, but there are a
 ## Troubleshooting
 
 If you encounter errors with this project please contact me at [G00387904@gmit.ie](mailto) and I will be happy to assist you in any way I can.
+
+***
+
+## Credits
+
+Throughout this project, I have borrowed heavily from the Machine Learning and Statistic module course work created by Dr.Ian McLoughlin of GMIt. I also replied upon the Scikit-Learn and SciPy documentation. For help with markdown, I have referenced this blog https://www.markdownguide.org/basic-syntax/.
 
 ***
