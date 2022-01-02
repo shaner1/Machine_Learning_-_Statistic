@@ -40,7 +40,7 @@ You can easily view a dynamic version of repository by clicking this image
 
 ***
 
-## Intall
+## Install
 
 To run my project submission from your local device you will need a python environment like Jupyter Lab. Jupyter Lab is an interactive python web environment that runs on your local machine. Projects in Jupyter Lab are referred to as notebooks. The easiest way to do this is to install Anaconda, which is a helpful python distribution package. You can find out how to do this here: [Installation Guide](https://docs.anaconda.com/anaconda/install/index.html)
 
@@ -73,6 +73,6 @@ If you encounter errors with this project please contact me at [G00387904@gmit.i
 
 ## Credits
 
-Throughout this project, I have borrowed heavily from the Machine Learning and Statistic module course work created by Dr.Ian McLoughlin of GMIt. I also replied upon the Scikit-Learn and SciPy documentation. For help with markdown, I have referenced this blog https://www.markdownguide.org/basic-syntax/.
+Throughout this project, I have borrowed heavily from the Machine Learning and Statistic module course work created by Dr.Ian McLoughlin of GMIT. I also replied upon the Scikit-Learn and SciPy documentation. For help with markdown, I have referenced this blog https://www.markdownguide.org/basic-syntax/.
 
 ***
