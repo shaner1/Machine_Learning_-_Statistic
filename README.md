@@ -14,7 +14,7 @@ This repository contains my project submission for the Machine Learning and Stat
 - Select an appropriate cost function for a given machine learning task.
 - Apply an optimisation technique to the parameters of a model.
 
-The reposiory consists of two separate jupyter notebooks. The first notebook deals with Scikit-Learn and includes an overview of Scikit-Learn and a comparison of three difference machine learning modules within it; linear, ridge and lasso. The second notebook focuses on the SciPy library in which I performing a one-way ANOVA test using SciPy and investigate the assumptions associated with this test.
+The reposiory consists of two separate jupyter notebooks. The first notebook deals with Scikit-Learn and includes an overview of Scikit-Learn. I also carry out a comparison of three difference machine learning modules within scikit-learn; linear, ridge and lasso. The second notebook focuses on the Stats package within the SciPy library. In this notebook I performing a one-way ANOVA test using SciPy and investigate the assumptions associated with this test.
 
 ***
 
